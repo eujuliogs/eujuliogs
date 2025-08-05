@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlqYjBtbWRvbW1sdGNpaW04b2wxdW5yZjZicDNubWRtd24zYnBqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/273R17o4u1T07O8uQy/giphy.gif](https://tenor.com/pt-BR/view/the-boondocks-fist-electricity-power-gif-11736304)" width="100" />
+  <img src="https://tenor.com/pt-BR/view/the-boondocks-fist-electricity-power-gif-11736304" width="100" />
   <h1>Júlio Gonçalves</h1>
   <h3>Estudante de Marketing Digital & Ciência de Dados</h3>
 </div>
