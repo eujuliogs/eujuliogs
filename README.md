@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://tenor.com/pt-BR/view/the-boondocks-fist-electricity-power-gif-11736304](https://tenor.com/Xpjo.gif)" width="100" />
+  <img src="https://tenor.com/pt-BR/view/the-boondocks-fist-electricity-power-gif-11736304" width="100" />
   <h1>Júlio Gonçalves</h1>
   <h3>Estudante de Marketing Digital & Ciência de Dados</h3>
 </div>
